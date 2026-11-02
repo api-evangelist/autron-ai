@@ -1,4 +1,4 @@
-# autron-ai
+# Autron
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-autron-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://autron.ai/
+Autron is an AI‑driven agent for Amazon advertising that reads your Amazon Ads and seller data, identifies wasted spend, and makes automated changes you approve. It empowers small businesses to scale with optimized campaigns, transparent insights, and maximum ROI without manual management or high fees. Start free to let Autron automate your Amazon ad operations.
+
+**Areas:** AI · Advertising · Amazon · Automation · SaaS · Marketing
+
+## Autron on APIs.io
+
+Everything profiled for Autron is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/autron-ai/](https://apis.io/providers/autron-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Autron API](https://apis.io/apis/autron-ai/autron-api/) — Autron API provides endpoints for managing Amazon advertising automation.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Autron Ai Openapi Overlay](https://apis.io/overlays/autron-ai/autron-ai-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Autron API Rules](https://apis.io/rules/autron-ai/autron-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Autron Ai Authentication](https://apis.io/security/autron-ai/autron-ai-authentication/)
+- [Autron Ai Domain Security](https://apis.io/security/autron-ai/autron-ai-domain-security/)
+- [Autron Ai Vulnerability Disclosure](https://apis.io/security/autron-ai/autron-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Autron Ai Scopes](https://apis.io/scopes/autron-ai/autron-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Autron Ai Plans Pricing](https://apis.io/plans/autron-ai/autron-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Autron Ai Rate Limits](https://apis.io/rate-limits/autron-ai/autron-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://autron.ai/)
+- [Documentation](https://autron.ai/guides)
+- [Getting started](https://autron.ai/pricing)
+- [Pricing](https://autron.ai/pricing)
+- [Support](https://autron.ai/help)
+- [Blog](https://autron.ai/blog)
+- [Terms of service](https://autron.ai/terms)
+- [Privacy policy](https://autron.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.5** — thin · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 44.7 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/autron-ai/](https://apis.io/providers/autron-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Autron: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/autron-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
